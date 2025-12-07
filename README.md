@@ -1,2 +1,4 @@
-# RAFOO
-RAF_OO is a small educational language that shows how objects, inheritance, references, casts, and cloning work. It supports custom class types and simple semantic analysis to make OOP rules clear and predictable in practice.
+# RAF_OO
+
+RAF_OO is a small educational language that demonstrates basic OOP ideas using classes, inheritance, symbols, instances and static method dispatch. It supports object references, casting, and cloning. The language includes basic semantic analysis.
+RAF_OO keeps the rules simple so the core concepts of objects and types are easy to understand.
